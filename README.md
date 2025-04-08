@@ -51,11 +51,3 @@ This project is a Python script for capturing and analyzing network traffic, foc
     ```
 
 4. Follow the on-screen instructions to capture and analyze network traffic.
-
-## Contributing
-
-Contributions are welcome! Feel free to submit bug reports, feature requests, or pull requests.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
